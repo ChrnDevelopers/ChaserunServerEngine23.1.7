@@ -1,0 +1,4 @@
+<if_chase.ver>
+<is.older.then(23.1.6) then>
+<enable.updates.and.say:do.you.want.to.update.to.the.latest.version(chase.ldr=chaserun.version>
+<chrn.upd.is.only.available.for.18.9.6.or.newer
